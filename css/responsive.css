@@ -1,0 +1,1241 @@
+@media (min-width: 0px) and (max-width: 575.98px) {
+/* ========================menu part start====================== */
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-toggler {
+	padding: 5px 12px;
+    font-size: 22px;
+    color: #FF4655;
+	background: transparent;
+	border: 2px solid #FF4655;
+}
+.navbar-collapse {
+	background: #000;
+	text-align: center;
+	padding: 10px 0px;
+}
+.menu_list {
+	gap: 20px;
+}
+.nav-link {
+    display: unset;
+}
+.menu_list li a::after {
+	bottom: -1px;
+}
+.navbar_right {
+    margin-top: 30px;
+	justify-content: center;
+}
+/* ------------------------menu part end------------------------ */
+/* ==========================banner part start====================== */
+#banner_part {
+	padding-top: 160px;
+	padding-bottom: 103px;
+}
+.banner_heading h2 {
+	font-size: 20px;
+}
+.banner_heading h1 {
+	font-size: 42px;
+	width: 100%;
+}
+.banner_heading p {
+	width: 100%;
+	font-size: 12px;
+	font-weight: 400;
+	font-family: var(--oswald);
+	color: #fff;
+}
+.common_button a {
+	width: 100px;
+	height: 43px;
+	font-size: 15px;
+}
+.banner_social_icon {
+	gap: 10px;
+	margin-top: 30px;
+}
+/* --------------------------banner part end------------------------ */
+/* ==========================about part start====================== */
+#about_part {
+	padding-bottom: 35px;
+}
+.about_heading h2 {
+	width: 100%;
+	font-size: 24px;
+    margin-bottom: 50px;
+}
+.about_heading h2::after {
+	left: 120px;
+	width: 80px;
+	height: 3px;
+}
+.about_img picture img {
+	width: 100% !important;
+	border-bottom-right-radius: 30px;
+}
+.about_img::after {
+	top: -4px;
+	left: -4px;
+	width: 120px;
+	height: 120px;
+}
+.gaming_platfrom h3 {
+	font-size: 18px;
+	margin-top: 35px;
+    margin-bottom: 20px;
+}
+.poppular_list li {
+	font-size: 14px;
+	margin-top: 8px;
+}
+.gaming_platfrom p {
+	width: 100%;
+	font-size: 12px;
+	margin-top: 15px;
+}
+.counter_col .counter_text {
+	width: 100%;
+	height: 160px;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	margin-bottom: 20px;
+}
+/* --------------------------about part end------------------------ */
+/* ==========================popular part start====================== */
+#popular_part {
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+.common_game_heading h2 {
+	width: 100%;
+	font-size: 24px;
+	margin-bottom: 50px;
+}
+#popular_part .common_game_heading h2::before {
+	width: 80px;
+	height: 2px;
+	bottom: 4px;
+	right: 65px;
+}
+.popular_img picture img {
+	width: 100% !important;
+}
+.p_right, .p_left {
+	width: 30px;
+	height: 30px;
+	font-size: 16px;
+	bottom: 35px;
+	right: 0%;
+}
+.p_left {
+	bottom: 0px;
+}
+/* --------------------------popular part end------------------------ */
+/* ==========================live part start====================== */
+#live_video {
+	padding: 50px 0px;
+}
+.video_common_heading h2 {
+	width: 100%;
+	font-size: 24px;
+}
+.video_common_heading h2::after {
+	width: 80px;
+	height: 2px;
+	bottom: 4px;
+	left: 29%;
+}
+.video_row {
+	margin-top: 50px;
+}
+.video_col {
+	width: 300px !important;
+	height: 265px;
+}
+#live_video .slick-slider .slick-track, .slick-slider .slick-list {
+	gap: 0px;
+}
+/* --------------------------live part end------------------------ */
+/* ==========================match part start====================== */
+#match {
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.match_heading h2 {
+	font-size: 24px;
+}
+.match_row {
+	margin-bottom: 25px;
+}
+.match_left {
+	width: 120px;
+	height: 50px;
+	justify-content: start;
+    gap: 5px;
+	padding-left: 5px;
+    padding-right: 0px;
+}
+.match_img picture img {
+	width: 35px !important;
+}
+.team_name h3 {
+	font-size: 12px;
+}
+.match_time h4 {
+	font-size: 16px;
+	letter-spacing: 0px;
+}
+.match_right {
+	width: 120px;
+	height: 50px;
+	justify-content: end;
+	gap: 5px;
+    padding-left: 0px;
+	padding-right: 5px;
+}
+
+/* --------------------------match part end------------------------ */
+/* ==========================top game part start====================== */
+#top_game {
+	padding-top: 0px;
+}
+.common_game_heading h2 {
+	width: 280px;
+}
+.common_game_heading h2::before {
+	width: 80px;
+	height: 2px;
+	bottom: 4px;
+	right: 45px;
+}
+/* --------------------------top game part end------------------------ */
+/* ==========================catalog part start====================== */
+#catalog {
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.catalog_text h4 {
+	width: 100%;
+	font-size: 24px;
+}
+.catalog_text h5 {
+	width: 100%;
+	font-size: 14px;
+}
+.catalog_button a {
+	width: 100px;
+	height: 42px;
+    font-size: 12px;
+    margin-bottom: 50px;
+}
+#slider {
+    width: 200px;
+    height: 270px;
+	margin-left: 0px;
+    margin: 0% auto;
+}
+#slider label, #slider label img {
+	width: 200px;
+	height: 260px;
+}
+#s1:checked ~ #slide1, #s2:checked ~ #slide2, #s3:checked ~ #slide3, #s4:checked ~ #slide4, #s5:checked ~ #slide5 {
+	transform: translate3d(0%, 0, 0px);
+}
+#s1:checked ~ #slide5, #s2:checked ~ #slide1, #s3:checked ~ #slide2, #s4:checked ~ #slide3, #s5:checked ~ #slide4 {
+	transform: translate3d(-33px, 0, -100px);
+}
+#s1:checked ~ #slide2, #s2:checked ~ #slide3, #s3:checked ~ #slide4, #s4:checked ~ #slide5, #s5:checked ~ #slide1 {
+	transform: translate3d(33px, 0, -103px);
+}
+#s1:checked ~ #slide4, #s2:checked ~ #slide5, #s3:checked ~ #slide1, #s4:checked ~ #slide2, #s5:checked ~ #slide3 {
+	transform: translate3d(-65px, 0, -180px);
+}
+#s1:checked ~ #slide3, #s2:checked ~ #slide4, #s3:checked ~ #slide5, #s4:checked ~ #slide1, #s5:checked ~ #slide2 {
+	transform: translate3d(65px, 0, -225px);
+}
+/* --------------------------catalog part end------------------------ */
+/* ==========================accesories part start====================== */
+#accesories {
+	padding: 40px 0px;
+}
+.accesories_row {
+	margin-top: 60px;
+}
+.accesories_col {
+	width: 300px !important;
+	height: 350px;
+	padding: 15px 0px;
+}
+.acc_right, .acc_left {
+	width: 30px;
+	height: 30px;
+	font-size: 16px;
+	bottom: 48%;
+	right: -8px;
+}
+.acc_left {
+	bottom: 48%;
+	left: -6px;
+}
+
+
+
+
+
+/* --------------------------accesories part end------------------------ */
+/* ==========================professional part start====================== */
+#professional_team {
+	padding: 50px 0px;
+}
+.professional_card {
+	width: 100%;
+	height: 280px;
+    margin-bottom: 10px;
+}
+.professional_text_bg {
+	padding: 10px;
+    bottom: -35%;
+}
+.professional_text_bg h2 {
+	font-size: 22px;
+}
+.professional_text_bg p {
+	width: 100%;
+	font-size: 12px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+.professional_card:hover .professional_text_bg p {
+	margin-top: 5px;
+}
+.professional_icon {
+	gap: 10px;
+}
+.professional_icon a i {
+	width: 30px;
+	height: 30px;
+	font-size: 15px;
+}
+/* --------------------------professional part end------------------------ */
+/* ==========================question part start====================== */
+#question_part {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+#question_part .video_common_heading h2 {
+	margin-bottom: 60px;
+}
+.question_number h3 {
+	width: 50px;
+	height: 50px;
+	font-size: 26px;
+}
+.question_text h4 {
+	font-size: 18px;
+}
+.question_text p {
+	width: 100%;
+	font-size: 12px;
+}
+.question_row {
+	row-gap: 25px;
+}
+.question_row::before {
+    display: none;
+}
+.question_row::after {
+    display: none;
+}
+.subcribe_col {
+	width: 100%;
+	padding: 10px 15px;
+    top: 38px;
+}
+.subcribe_text h2 {
+	width: 100%;
+	font-size: 18px;
+    margin-bottom: 20px;
+}
+.subcribe_input input {
+	padding-left: 15px;
+}
+.subcribe_input button {
+	width: 90px;
+	font-size: 15px;
+}
+/* --------------------------question part end------------------------ */
+/* ==========================footer part start====================== */
+#footer_part {
+	padding-top: 90px;
+}
+.footer_logo p {
+	width: 100%;
+	font-size: 14px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.footer_icon {
+	display: flex;
+	justify-content: center;
+}
+.footer_icon a i {
+	width: 45px;
+	height: 45px;
+}
+.footer_left_item {
+	justify-content: center;
+	gap: 70px;
+}
+.footer_right_item {
+	align-items: start;
+	margin-top: 50px;
+}
+.footer_gallery_img a picture img {
+	width: 95px !important;
+}
+.footer_gallery_img {
+    width: 300px;
+}
+/* --------------------------footer part end------------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* ========================menu part start====================== */
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-toggler {
+    padding: 5px 12px;
+    font-size: 22px;
+    color: #FF4655;
+    background: transparent;
+    border: 2px solid #FF4655;
+}
+.navbar-collapse {
+    background: #000;
+    text-align: center;
+    padding: 10px 0px;
+}
+.menu_list {
+    gap: 20px;
+}
+.nav-link {
+    display: unset;
+}
+.menu_list li a::after {
+    bottom: -1px;
+}
+.navbar_right {
+    margin-top: 30px;
+    justify-content: center;
+}
+/* ------------------------menu part end------------------------ */
+/* ==========================banner part start====================== */
+#banner_part {
+    padding-top: 170px;
+    padding-bottom: 103px;
+}
+.banner_heading h2 {
+    font-size: 22px;
+}
+.banner_heading h1 {
+    font-size: 46px;
+    width: 100%;
+}
+.banner_heading p {
+    width: 400px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: var(--oswald);
+    color: #fff;
+}
+.common_button a {
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+}
+.banner_social_icon {
+    gap: 10px;
+    margin-top: 80px;
+}
+/* --------------------------banner part end------------------------ */
+/* ==========================about part start====================== */
+#about_part {
+    padding-bottom: 35px;
+}
+.about_heading h2 {
+    width: 320px;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+.about_heading h2::after {
+    left: 120px;
+    width: 80px;
+    height: 3px;
+    bottom: 4px;
+}
+.about_img picture img {
+    width: 100% !important;
+    border-bottom-right-radius: 30px;
+}
+.about_img::after {
+    top: -4px;
+    left: -4px;
+}
+.gaming_platfrom h3 {
+    font-size: 24px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.counter_col .counter_text {
+    width: 100%;
+    height: 160px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-bottom: 20px;
+}
+/* --------------------------about part end------------------------ */
+/* ==========================popular part start====================== */
+#popular_part {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.common_game_heading h2 {
+    width: 100%;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+#popular_part .common_game_heading h2::before {
+    width: 80px;
+    height: 2px;
+    bottom: 4px;
+    right: 65px;
+}
+.popular_img picture img {
+    width: 100% !important;
+}
+.p_right, .p_left {
+	width: 30px;
+	height: 30px;
+	font-size: 16px;
+	bottom: 35px;
+	right: -2%;
+}
+.p_left {
+    bottom: 0px;
+}
+/* --------------------------popular part end------------------------ */
+/* ==========================live part start====================== */
+#live_video {
+    padding: 50px 0px;
+}
+.video_common_heading h2 {
+    width: 320px;
+    font-size: 24px;
+}
+.video_common_heading h2::after {
+	width: 80px;
+	height: 2px;
+	bottom: 4px;
+	left: 27%;
+}
+.video_row {
+    margin-top: 50px;
+}
+.video_col {
+    width: 270px !important;
+    height: 300px;
+}
+#live_video .slick-slider .slick-track, .slick-slider .slick-list {
+    gap: 15px;
+}
+/* --------------------------live part end------------------------ */
+/* ==========================match part start====================== */
+#match {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.match_heading h2 {
+    font-size: 24px;
+}
+.match_row {
+    margin-bottom: 25px;
+}
+.match_left {
+	width: 200px;
+	height: 60px;
+	padding-right: 45px;
+	padding-left: 10px;
+}
+.match_img picture img {
+    width: 50px !important;
+}
+.team_name h3 {
+    font-size: 16px;
+}
+.match_time h4 {
+    font-size: 24px;
+    letter-spacing: 0px;
+}
+.match_right {
+    width: 200px;
+    height: 60px;
+    padding-left: 45px;
+    padding-right: 10px;
+}
+
+/* --------------------------match part end------------------------ */
+/* ==========================top game part start====================== */
+#top_game {
+    padding-top: 0px;
+}
+.common_game_heading h2 {
+    width: 280px;
+}
+.common_game_heading h2::before {
+    width: 80px;
+    height: 2px;
+    bottom: 4px;
+    right: 45px;
+}
+/* --------------------------top game part end------------------------ */
+/* ==========================catalog part start====================== */
+#catalog {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.catalog_text h4 {
+    width: 100%;
+    font-size: 26px;
+}
+.catalog_text h5 {
+    width: 100%;
+}
+.catalog_button a {
+    width: 100px;
+    height: 42px;
+    font-size: 12px;
+    margin-bottom: 50px;
+}
+#slider {
+    width: 220px;
+    height: 300px;
+    margin-left: 0px;
+    margin: 0% auto;
+}
+#slider label, #slider label img {
+    width: 250px !important;
+    height: 330px;
+} 
+#s1:checked ~ #slide1, #s2:checked ~ #slide2, #s3:checked ~ #slide3, #s4:checked ~ #slide4, #s5:checked ~ #slide5 {
+    transform: translate3d(0%, 0, 0px);
+}
+#s1:checked ~ #slide5, #s2:checked ~ #slide1, #s3:checked ~ #slide2, #s4:checked ~ #slide3, #s5:checked ~ #slide4 {
+	transform: translate3d(-50px, 0, -100px);
+}
+#s1:checked ~ #slide2, #s2:checked ~ #slide3, #s3:checked ~ #slide4, #s4:checked ~ #slide5, #s5:checked ~ #slide1 {
+    transform: translate3d(50px, 0, -103px);
+}
+#s1:checked ~ #slide4, #s2:checked ~ #slide5, #s3:checked ~ #slide1, #s4:checked ~ #slide2, #s5:checked ~ #slide3 {
+	transform: translate3d(-100px, 0, -180px);
+}
+#s1:checked ~ #slide3, #s2:checked ~ #slide4, #s3:checked ~ #slide5, #s4:checked ~ #slide1, #s5:checked ~ #slide2 {
+    transform: translate3d(100px, 0, -225px);
+} 
+/* --------------------------catalog part end------------------------ */
+/* ==========================accesories part start====================== */
+#accesories {
+    padding: 40px 0px;
+}
+#accesories .video_common_heading h2::after {
+	left: 39%;
+}
+.accesories_row {
+    margin-top: 60px;
+}
+.accesories_col {
+    width: 300px !important;
+    height: 350px;
+    padding: 20px 0px;
+}
+.accesories_img picture img {
+	width: 180px !important;
+}
+/* --------------------------accesories part end------------------------ */
+/* ==========================professional part start====================== */
+#professional_team {
+    padding: 50px 0px;
+}
+.professional_card {
+	width: 100%;
+	height: 300px;
+	margin-bottom: 10px;
+}
+.professional_text_bg {
+	padding: 25px 58px 30px 30px;
+}
+.professional_text_bg p {
+    width: 100%;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.professional_card:hover .professional_text_bg p {
+    margin-top: 5px;
+}
+.professional_icon {
+    gap: 10px;
+}
+.professional_icon a i {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+}
+/* --------------------------professional part end------------------------ */
+/* ==========================question part start====================== */
+#question_part {
+	padding-top: 50px;
+	padding-bottom: 116px;
+}
+#question_part .video_common_heading h2 {
+    margin-bottom: 60px;
+}
+.question_text p {
+    width: 100%;
+}
+.question_row {
+    row-gap: 35px;
+}
+.question_row::before {
+    display: none;
+}
+.question_row::after {
+    display: none;
+}
+.subcribe_col {
+	width: 100%;
+	padding: 20px 25px;
+	top: 38px;
+}
+.subcribe_text h2 {
+	width: 100%;
+	font-size: 24px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.subcribe_input{
+    margin: 0% auto;
+}
+.subcribe_input input {
+    padding-left: 15px;
+}
+.subcribe_input button {
+    width: 90px;
+    font-size: 15px;
+}
+/* --------------------------question part end------------------------ */
+/* ==========================footer part start====================== */
+#footer_part {
+	padding-top: 125px;
+}
+.footer_logo p {
+    width: 300px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.footer_icon a i {
+    width: 50px;
+    height: 50px;
+}
+.footer_right_item {
+    align-items: start;
+    margin-top: 50px;
+}
+.footer_gallery_img a picture img {
+    width: 150px !important;
+}
+.footer_gallery_img {
+    width: 100%;
+}
+.footer_bottom {
+	margin-top: 50px;
+    padding: 15px 0px;
+}
+.footer_bottom p {
+	font-size: 18px;
+}
+/* --------------------------footer part end------------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* ========================menu part start====================== */
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-toggler {
+    padding: 5px 12px;
+    font-size: 22px;
+    color: #FF4655;
+    background: transparent;
+    border: 2px solid #FF4655;
+}
+.navbar-collapse {
+    background: #000;
+    text-align: center;
+    padding: 10px 0px;
+}
+.menu_list {
+    gap: 25px;
+}
+.nav-link {
+    display: unset;
+}
+.menu_list li a::after {
+    bottom: -1px;
+}
+.navbar_right {
+    margin-top: 30px;
+    justify-content: center;
+}
+/* ------------------------menu part end------------------------ */
+/* ==========================banner part start====================== */
+#banner_part {
+    padding-top: 200px;
+}
+.banner_social_icon {
+    gap: 10px;
+    margin-top: 120px;
+}
+/* --------------------------banner part end------------------------ */
+/* ==========================about part start====================== */
+#about_part {
+    padding-bottom: 35px;
+}
+.about_img picture img {
+    width: 100% !important;
+    border-bottom-right-radius: 30px;
+}
+.about_img::after {
+    top: -4px;
+    left: -4px;
+}
+.gaming_platfrom h3 {
+    font-size: 24px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.counter_col .counter_text {
+    width: 100%;
+    height: 160px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-bottom: 20px;
+}
+/* --------------------------about part end------------------------ */
+/* ==========================popular part start====================== */
+#popular_part {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.popular_img picture img {
+    width: 100% !important;
+}
+.p_right, .p_left {
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    bottom: 35px;
+    right: -2%;
+}
+.p_left {
+    bottom: 0px;
+}
+/* --------------------------popular part end------------------------ */
+/* ==========================live part start====================== */
+#live_video {
+    padding: 50px 0px;
+}
+.video_row {
+    margin-top: 50px;
+}
+.video_col {
+    width: 270px !important;
+    height: 300px;
+}
+#live_video .slick-slider .slick-track, .slick-slider .slick-list {
+    gap: 15px;
+}
+/* --------------------------live part end------------------------ */
+/* ==========================match part start====================== */
+#match {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.match_heading h2 {
+    font-size: 24px;
+}
+.match_row {
+    margin-bottom: 25px;
+}
+.match_left {
+	width: 280px;
+	height: 80px;
+	padding-right: 45px;
+	padding-left: 10px;
+}
+.match_img picture img {
+	width: 65px !important;
+}
+.team_name h3 {
+	font-size: 26px;
+}
+.match_time h4 {
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+.match_right {
+    width: 280px;
+    height: 80px;
+    padding-left: 45px;
+    padding-right: 10px;
+}
+/* --------------------------match part end------------------------ */
+/* ==========================top game part start====================== */
+#top_game {
+    padding-top: 0px;
+}
+/* --------------------------top game part end------------------------ */
+/* ==========================catalog part start====================== */
+.catalog_button a{
+    margin-bottom: 50px;
+}
+
+#slider {
+    width: 300px;
+    height: 380px;
+    margin-left: 0px;
+    margin: 0% auto;
+}
+#slider label, #slider label img {
+	width: 300px !important;
+	height: 380px;
+}
+#s1:checked ~ #slide1, #s2:checked ~ #slide2, #s3:checked ~ #slide3, #s4:checked ~ #slide4, #s5:checked ~ #slide5 {
+    transform: translate3d(0%, 0, 0px);
+}
+#s1:checked ~ #slide5, #s2:checked ~ #slide1, #s3:checked ~ #slide2, #s4:checked ~ #slide3, #s5:checked ~ #slide4 {
+    transform: translate3d(-50px, 0, -100px);
+}
+#s1:checked ~ #slide2, #s2:checked ~ #slide3, #s3:checked ~ #slide4, #s4:checked ~ #slide5, #s5:checked ~ #slide1 {
+    transform: translate3d(50px, 0, -103px);
+}
+#s1:checked ~ #slide4, #s2:checked ~ #slide5, #s3:checked ~ #slide1, #s4:checked ~ #slide2, #s5:checked ~ #slide3 {
+    transform: translate3d(-100px, 0, -180px);
+}
+#s1:checked ~ #slide3, #s2:checked ~ #slide4, #s3:checked ~ #slide5, #s4:checked ~ #slide1, #s5:checked ~ #slide2 {
+    transform: translate3d(100px, 0, -225px);
+} 
+/* --------------------------catalog part end------------------------ */
+/* ==========================accesories part start====================== */
+#accesories {
+    padding: 40px 0px;
+}
+.accesories_row {
+    margin-top: 60px;
+}
+.accesories_col {
+    width: 300px !important;
+    height: 350px;
+    padding: 20px 0px;
+}
+.accesories_img picture img {
+    width: 180px !important;
+}
+/* --------------------------accesories part end------------------------ */
+/* ==========================professional part start====================== */
+#professional_team {
+    padding: 50px 0px;
+}
+/* --------------------------professional part end------------------------ */
+/* ==========================question part start====================== */
+#question_part {
+    padding-top: 50px;
+    padding-bottom: 116px;
+}
+#question_part .video_common_heading h2 {
+    margin-bottom: 60px;
+}
+.question_text p {
+    width: 100%;
+}
+.question_row {
+    row-gap: 50px;
+}
+.question_row::before {
+    display: none;
+}
+.question_row::after {
+    display: none;
+}
+.subcribe_col {
+    width: 100%;
+    padding: 20px 25px;
+    top: 38px;
+}
+.subcribe_text h2 {
+    width: 100%;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.subcribe_input{
+    margin: 0% auto;
+}
+/* --------------------------question part end------------------------ */
+/* ==========================footer part start====================== */
+#footer_part {
+    padding-top: 125px;
+}
+.footer_logo p {
+    width: 300px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.footer_icon a i {
+    width: 50px;
+    height: 50px;
+}
+.footer_right_item {
+    align-items: start;
+    margin-top: 50px;
+}
+.footer_gallery_img a picture img {
+    width: 150px !important;
+}
+.footer_gallery_img {
+    width: 100%;
+}
+.footer_bottom {
+    margin-top: 50px;
+    padding: 15px 0px;
+}
+.footer_bottom p {
+    font-size: 18px;
+}
+/* --------------------------footer part end------------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* ==========================banner part start====================== */
+#banner_part {
+    padding-top: 200px;
+}
+.banner_social_icon {
+    margin-top: 200px;
+    gap: 15px;
+} 
+/* --------------------------banner part end------------------------ */
+/* ==========================about part start====================== */
+.about_img picture img {
+	width: 100% !important;
+	border-bottom-right-radius: 65px;
+}
+.gaming_platfrom p {
+	width: 370px;
+	font-size: 16px;
+}
+.counter_col .counter_text {
+	width: 230px;
+	height: 150px;
+}
+/* --------------------------about part end------------------------ */
+/* ==========================popular part start====================== */
+#popular_part {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.popular_img picture img {
+    width: 100% !important;
+}
+.p_right, .p_left {
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    bottom: 35px;
+    right: -2%;
+}
+.p_left {
+    bottom: 0px;
+}
+/* --------------------------popular part end------------------------ */
+/* ==========================top game part start====================== */
+#top_game {
+    padding-top: 0px;
+}
+#top_game .slick-slider .slick-track, .slick-slider .slick-list {
+	display: flex;
+	gap: 15px;
+	align-items: start;
+}
+/* --------------------------top game part end------------------------ */
+/* ==========================catalog part start====================== */
+.catalog_text h4 {
+	width: 410px;
+}
+.catalog_text h5 {
+	width: 400px;
+}
+#slider {
+    width: 300px;
+    height: 380px;
+    margin-left: 0px;
+    margin: 0% auto;
+}
+#slider label, #slider label img {
+    width: 300px !important;
+    height: 380px;
+}
+#s1:checked ~ #slide1, #s2:checked ~ #slide2, #s3:checked ~ #slide3, #s4:checked ~ #slide4, #s5:checked ~ #slide5 {
+    transform: translate3d(0%, 0, 0px);
+}
+#s1:checked ~ #slide5, #s2:checked ~ #slide1, #s3:checked ~ #slide2, #s4:checked ~ #slide3, #s5:checked ~ #slide4 {
+    transform: translate3d(-50px, 0, -100px);
+}
+#s1:checked ~ #slide2, #s2:checked ~ #slide3, #s3:checked ~ #slide4, #s4:checked ~ #slide5, #s5:checked ~ #slide1 {
+    transform: translate3d(50px, 0, -103px);
+}
+#s1:checked ~ #slide4, #s2:checked ~ #slide5, #s3:checked ~ #slide1, #s4:checked ~ #slide2, #s5:checked ~ #slide3 {
+    transform: translate3d(-100px, 0, -180px);
+}
+#s1:checked ~ #slide3, #s2:checked ~ #slide4, #s3:checked ~ #slide5, #s4:checked ~ #slide1, #s5:checked ~ #slide2 {
+    transform: translate3d(100px, 0, -225px);
+} 
+/* --------------------------catalog part end------------------------ */
+/* ==========================accesories part start====================== */
+#accesories {
+    padding: 40px 0px;
+}
+.accesories_row {
+    margin-top: 60px;
+}
+.accesories_col {
+	width: 302px !important;
+}
+/* --------------------------accesories part end------------------------ */
+/* ============================professional part start========================= */
+.professional_card {
+	width: 450px;
+	height: 350px;
+    margin-bottom: 20px;
+}
+.professional_text_bg {
+	padding: 20px;
+}
+/* ----------------------------professional part end-------------------------- */
+/* ==========================question part start====================== */
+.question_row {
+	row-gap: 90px;
+}
+.question_text p {
+	width: 325px;
+}
+.subcribe_text h2 {
+	width: 450px;
+	font-size: 30px;
+}
+/* --------------------------question part end------------------------ */
+/* ==========================footer part start====================== */
+.footer_logo p {
+	width: 300px;
+}
+.footer_left_item {
+	padding-right: 50px;
+}
+/* --------------------------footer part end------------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
